@@ -42,12 +42,12 @@ float humidity = 12;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "a7f5c5475b0c4ddbb2067446c627150e";
+char auth[] = "xxxxxx";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "margscle";
-char pass[] = "kxvnp7ttdty31xx";
+char ssid[] = "xxxxxx";
+char pass[] = "xxxxxx";
 
 void setup()
 {
